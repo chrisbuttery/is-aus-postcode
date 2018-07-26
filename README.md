@@ -35,5 +35,7 @@ isAusPostcode("0230") // true
 | Australian Capital Territory | 0200–0299, 2600–2619, 2900–2920 |
 | Northern Territory | 0800–0999 |
 
+Reference taken from the [Australia Post - Standard Postcode File (PC001)](https://postcode.auspost.com.au/free_display.html?id=1).
+
 [npm-image]: https://img.shields.io/npm/v/is-aus-postcode.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/is-aus-postcode
