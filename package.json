@@ -1,0 +1,25 @@
+{
+  "name": "is-aus-postcode",
+  "version": "1.0.0",
+  "description": "Validate an Australian postcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | faucet"
+  },
+  "dependencies": {
+    "tape": "^4.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisbuttery/greeting.git"
+  },
+  "keywords": [
+    "postcode",
+    "postcodes"
+  ],
+  "author": "Chris Buttery <info@chrisbuttery.com> (http://www.chrisbuttery.com)",
+  "bugs": {
+    "url": "https://github.com/chrisbuttery/is-aus-postcode/issues"
+  },
+  "homepage": "https://github.com/chrisbuttery/is-aus-postcode"
+}
