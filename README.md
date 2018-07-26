@@ -1,3 +1,5 @@
+[![NPM version][npm-image]][npm-url]
+
 # is-aus-postcode
 
 Validate an Australian postcode.
@@ -32,3 +34,6 @@ isAusPostcode("0230") // true
 | Tasmania | 7000–7999 |
 | Australian Capital Territory | 0200–0299, 2600–2619, 2900–2920 |
 | Northern Territory | 0800–0999 |
+
+[npm-image]: https://img.shields.io/npm/v/is-aus-postcode.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/is-aus-postcode
