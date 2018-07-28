@@ -1,6 +1,6 @@
 {
   "name": "is-aus-postcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validate an Australian postcode",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chrisbuttery/greeting.git"
+    "url": "https://github.com/chrisbuttery/is-aus-postcode.git"
   },
   "keywords": [
     "postcode",
