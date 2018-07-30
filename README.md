@@ -15,7 +15,7 @@ npm i is-aus-postcode
 ### Usage
 
 ```js
-var isAusPostcode = require('./index')
+var isAusPostcode = require('is-aus-postcode').default
 
 isAusPostcode("2300") // true
 isAusPostcode("0100") // false
