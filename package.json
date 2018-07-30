@@ -1,6 +1,6 @@
 {
   "name": "is-aus-postcode",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Validate an Australian postcode",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
