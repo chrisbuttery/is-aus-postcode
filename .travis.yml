@@ -1,0 +1,6 @@
+node_js:
+- '6.3'
+- '8.11'
+- '10.7'
+sudo: false
+language: node_js
