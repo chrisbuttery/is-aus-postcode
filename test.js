@@ -1,5 +1,5 @@
 var test = require('tape')
-var isAusPostcode = require('./index')
+var isAusPostcode = require('./dist/index').default
 
 test('Invalid Australian Postcodes', t => {
   t.plan(12)
