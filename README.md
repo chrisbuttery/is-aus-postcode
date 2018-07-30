@@ -1,4 +1,5 @@
 [![NPM version][npm-image]][npm-url]
+[![build status][travis-image]][travis-url]
 
 # is-aus-postcode
 
@@ -39,3 +40,5 @@ Reference taken from the [Australia Post - Standard Postcode File (PC001)](https
 
 [npm-image]: https://img.shields.io/npm/v/is-aus-postcode.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/is-aus-postcode
+[travis-image]: https://img.shields.io/travis/chrisbuttery/is-aus-postcode.svg?style=flat-square
+[travis-url]: https://travis-ci.org/chrisbuttery/is-aus-postcode
